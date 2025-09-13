@@ -8,18 +8,11 @@ namespace RebornRepoUpdater;
 
 class Program
 {
-    public static GitHubClient Client = new GitHubClient(new ProductHeaderValue("CombatRebornRepoUpdater"));
+    public static GitHubClient Client = new GitHubClient(new ProductHeaderValue("PSUUpdater"));
 
     public static List<KnownRepo> KnownRepos =
     [
-        new KnownRepo("RotationSolverReborn", "RotationSolver"),
-        new KnownRepo("BossModReborn", "BossModReborn"),
-        new KnownRepo("ActionTimelineReborn", "ActionTimelineEx"),
-        new KnownRepo("EasyZoomReborn", "EasyZoomReborn"),
-        new KnownRepo("GatherBuddyReborn", "GatherbuddyReborn"),
-        new KnownRepo("RebornToolbox", "RebornToolbox"),
-        new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
-        new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn")
+        new KnownRepo("PocketSizedUniverse", "PocketSizedUniverse", "Pocket-Sized-Universe", "PocketSizedUniverse/PocketSizedUniverse.json")
     ];
 
     static async Task Main(string[] args)
