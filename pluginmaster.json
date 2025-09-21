@@ -1,6 +1,6 @@
 [
   {
-    "Author": "NostraThomas",
+    "Author": "NostraThomas & Dragon",
     "Name": "Pocket Sized Universe",
     "InternalName": "PocketSizedUniverse",
     "Description": "This plugin will synchronize your Penumbra mods and other glam plugins with paired clients via robust P2P protocols.",
@@ -15,13 +15,13 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/Pocket-Sized-Universe/client/main/PocketSizedUniverse/images/icon.jpg",
+    "IconUrl": "https://raw.githubusercontent.com/Pocket-Sized-Universe/PocketSizedUniverse/main/PocketSizedUniverse/images/icon.jpg",
     "Punchline": "We're beating a dead horse.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.4/PocketSizedUniverse.zip",
-    "AssemblyVersion": "0.2.4",
-    "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.4/PocketSizedUniverse.zip",
+    "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.5/PocketSizedUniverse.zip",
+    "AssemblyVersion": "0.2.5",
+    "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.5/PocketSizedUniverse.zip",
     "Changelog": "",
-    "DownloadCount": 398
+    "DownloadCount": 400
   }
 ]
