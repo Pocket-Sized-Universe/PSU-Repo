@@ -18,10 +18,10 @@
     "IconUrl": "https://raw.githubusercontent.com/Pocket-Sized-Universe/PocketSizedUniverse/main/PocketSizedUniverse/images/icon.jpg",
     "Punchline": "We're beating a dead horse.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.6/PocketSizedUniverse.zip",
-    "AssemblyVersion": "0.2.6",
-    "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.6/PocketSizedUniverse.zip",
+    "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.7/PocketSizedUniverse.zip",
+    "AssemblyVersion": "0.2.7",
+    "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.2.7/PocketSizedUniverse.zip",
     "Changelog": "",
-    "DownloadCount": 507
+    "DownloadCount": 510
   }
 ]
