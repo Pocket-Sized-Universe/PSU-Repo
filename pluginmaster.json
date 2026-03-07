@@ -23,8 +23,8 @@
     "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.5.2/PocketSizedUniverse.zip",
     "AssemblyVersion": "0.5.2",
     "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.5.2/PocketSizedUniverse.zip",
-    "DownloadLinkTesting": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.5.0/PocketSizedUniverse.zip",
-    "TestingAssemblyVersion": "0.5.0",
+    "DownloadLinkTesting": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.6.0/PocketSizedUniverse.zip",
+    "TestingAssemblyVersion": "0.6.0",
     "Changelog": "**Full Changelog**: https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/compare/0.5.1...0.5.2",
     "DownloadCount": 1855
   }
