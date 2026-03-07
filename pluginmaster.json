@@ -6,7 +6,7 @@
     "Description": "This plugin will synchronize your Penumbra mods and other glam plugins with paired clients via robust P2P protocols.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 14,
     "Tags": [
       "customization",
       "modding",
@@ -26,6 +26,6 @@
     "DownloadLinkTesting": "https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/releases/download/0.6.0/PocketSizedUniverse.zip",
     "TestingAssemblyVersion": "0.6.0",
     "Changelog": "**Full Changelog**: https://github.com/Pocket-Sized-Universe/PocketSizedUniverse/compare/0.5.1...0.5.2",
-    "DownloadCount": 1855
+    "DownloadCount": 1856
   }
 ]
